@@ -1,6 +1,6 @@
 # Flashcards Minimal
 
-Flashcards Pro é um aplicativo móvel moderno, intuitivo e rico em recursos, projetado para ajudar os usuários a estudar e memorizar informações de forma eficaz, sendo particularmente útil para o aprendizado de idiomas e disciplinas acadêmicas. Ele permite criar baralhos de flashcards personalizados, adicionar perguntas e respostas, e engajar-se em um modo de estudo interativo. O aplicativo também inclui funcionalidades robustas de backup e restauração, garantindo que seus valiosos dados de estudo estejam sempre seguros.
+Flashcards Minimal é um aplicativo móvel moderno, intuitivo e rico em recursos, projetado para ajudar os usuários a estudar e memorizar informações de forma eficaz, sendo particularmente útil para o aprendizado de idiomas e disciplinas acadêmicas. Ele permite criar baralhos de flashcards personalizados, adicionar perguntas e respostas, e engajar-se em um modo de estudo interativo. O aplicativo também inclui funcionalidades robustas de backup e restauração, garantindo que seus valiosos dados de estudo estejam sempre seguros.
 
 ## Baixe o App Aqui!!
 
