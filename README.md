@@ -1,4 +1,4 @@
-# Flashcards Pro
+# Flashcards Minimal
 
 Flashcards Pro é um aplicativo móvel moderno, intuitivo e rico em recursos, projetado para ajudar os usuários a estudar e memorizar informações de forma eficaz, sendo particularmente útil para o aprendizado de idiomas e disciplinas acadêmicas. Ele permite criar baralhos de flashcards personalizados, adicionar perguntas e respostas, e engajar-se em um modo de estudo interativo. O aplicativo também inclui funcionalidades robustas de backup e restauração, garantindo que seus valiosos dados de estudo estejam sempre seguros.
 
@@ -104,14 +104,6 @@ A arquitetura do aplicativo segue uma estrutura baseada em componentes, comum no
 * **Backup e Restauração**: A implementação utiliza `expo-file-system` para operações de arquivo e `expo-sharing` para fácil compartilhamento de arquivos de backup. `expo-document-picker` facilita a seleção de arquivos de backup para restauração. Uma validação básica é realizada nos dados restaurados para evitar o carregamento de arquivos corrompidos ou malformados.
 
 O projeto foi construído principalmente usando o **Google AI Studio** com o modelo **Gemini Flash 2.5**, que guiou o desenvolvimento das funcionalidades e lógicas centrais. O design da UI e os refinamentos iterativos foram feitos usando o **VS Code** para codificação, o **Figma** para a conceituação inicial e o planejamento do layout, e o **Iconoir** para selecionar os ícones apropriados. **Expo.dev** e o **aplicativo Expo Go** foram cruciais para o desenvolvimento rápido, teste e depuração em vários dispositivos.
-
-## Status
-
-Flashcards Pro está atualmente em desenvolvimento ativo. Esta versão representa uma base sólida com funcionalidades essenciais. As futuras versões terão como objetivo incluir:
-
-* **Versão 2**: Recursos de estudo aprimorados (ex: repetição espaçada, diferentes modos de estudo).
-* **Versão 3**: Contas de usuário e sincronização na nuvem.
-* **Versão 4**: Importação/exportação de cartões de outros formatos (CSV, Anki).
 
 ## Créditos
 
