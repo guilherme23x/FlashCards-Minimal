@@ -1,3 +1,6 @@
+<img width="1112" height="834" alt="mobile" src="https://github.com/user-attachments/assets/dbf743d5-abd0-42dd-b22d-32396fc8b48f" />
+
+
 # Flashcards Minimal
 
 Flashcards Minimal é um aplicativo móvel moderno, intuitivo e rico em recursos, projetado para ajudar os usuários a estudar e memorizar informações de forma eficaz, sendo particularmente útil para o aprendizado de idiomas e disciplinas acadêmicas. Ele permite criar baralhos de flashcards personalizados, adicionar perguntas e respostas, e engajar-se em um modo de estudo interativo. O aplicativo também inclui funcionalidades robustas de backup e restauração, garantindo que seus valiosos dados de estudo estejam sempre seguros.
