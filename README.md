@@ -37,15 +37,6 @@ Key features include:
 
 O design do aplicativo enfatiza a clareza e a facilidade de navegação, tornando-o uma ferramenta ideal para estudantes, aprendizes de idiomas e qualquer pessoa que queira dominar novos conceitos.
 
-## Capturas de Tela
-
-<p align="center">
-  <img width="220" heigth="200" alt="1" src="https://github.com/user-attachments/assets/285fbe04-4ca7-4cfd-84cd-1fae346bea87" />
-  <img width="220" heigth="200"  alt="2" src="https://github.com/user-attachments/assets/89645772-09aa-4b3a-aded-a20a68123130" />
-<img width="220"  heigth="280" alt="3" src="https://github.com/user-attachments/assets/a9627c07-bf3a-482d-93cc-0b3a7fbac9e8" />
-<img width="220" heigth="200" alt="4" src="https://github.com/user-attachments/assets/cbcf76c2-bbd2-4fe8-9b21-7ea3e9447536" />
-
-</p>
 ## Tecnologias
 
 Este aplicativo é construído utilizando as seguintes tecnologias e bibliotecas:
